@@ -13,4 +13,4 @@ This repository contains projects completed during my Artificial Intelligence in
 - Combined classification and regression heads for object detection.
 
 ## 🧰 Tech Stack
-TensorFlow · Keras · Vision Transformer (ViT) · CNN · Deep Learning · Computer Vision · Jupyter Notebook
+Python · TensorFlow · Keras · Vision Transformer (ViT) · CNN · Deep Learning · Computer Vision  
