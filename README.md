@@ -1,2 +1,16 @@
-# AI-Internship-Projects
-Projects completed during my AI internship at Coincent.ai — Vision Transformer and Object Detection on MNIST.
+# AI Internship Projects – Coincent.ai (Languify AI Program)
+
+This repository contains projects completed during my Artificial Intelligence internship at **Coincent.ai**, focused on deep learning and computer vision.
+
+## 🧠 Project 1: Vision Transformer (ViT) for Handwritten Digit Classification
+- Implemented ViT in **Jupyter Notebook** for handwritten digit classification on the **MNIST dataset**.
+- Included patch embeddings, positional encodings, and transformer encoder blocks.
+- Achieved ~98% accuracy.
+
+## 🎯 Project 2: Object Detection using TensorFlow
+- Built a **multi-output CNN** for both digit classification and bounding box localization on a modified MNIST dataset.
+- Implemented in **TensorFlow and Keras**.
+- Combined classification and regression heads for object detection.
+
+## 🧰 Tech Stack
+TensorFlow · Keras · Vision Transformer (ViT) · CNN · Deep Learning · Computer Vision · Jupyter Notebook
